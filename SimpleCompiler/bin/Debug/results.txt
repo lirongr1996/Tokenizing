@@ -1,0 +1,6 @@
+Test Test1.Jack failed. Exception:Could not find file 'D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\bin\Debug\Test1.Jack'., errors = 1
+Test Test2.Jack failed. Exception:Could not find file 'D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\bin\Debug\Test2.Jack'., errors = 1
+Test Test3.Jack failed. Exception:Could not find file 'D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\bin\Debug\Test3.Jack'., errors = 1
+Test Test1.Jack failed. Exception:לא היתה אפשרות לאתר את הקובץ 'C:\לימודים\שנה שלישית\סמסטר ראשון\מבנה מערכות מחשב\עבודה 8\Ex3.1\SimpleCompiler\bin\Debug\Test1.Jack'., errors = 1
+Test Test2.Jack failed. Exception:לא היתה אפשרות לאתר את הקובץ 'C:\לימודים\שנה שלישית\סמסטר ראשון\מבנה מערכות מחשב\עבודה 8\Ex3.1\SimpleCompiler\bin\Debug\Test2.Jack'., errors = 1
+Test Test3.Jack failed. Exception:לא היתה אפשרות לאתר את הקובץ 'C:\לימודים\שנה שלישית\סמסטר ראשון\מבנה מערכות מחשב\עבודה 8\Ex3.1\SimpleCompiler\bin\Debug\Test3.Jack'., errors = 1
